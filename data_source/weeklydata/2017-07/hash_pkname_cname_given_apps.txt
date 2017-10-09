@@ -1,0 +1,2 @@
+4226375898125068107,com.tencent.android.qqdownloader,应用宝
+1898816940409777001,com.xiaomi.market,小米应用商店
